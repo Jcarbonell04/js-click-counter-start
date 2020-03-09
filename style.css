@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-variant: small-caps;
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+hr {
+    width: 600px;
+}
+
+#counter {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200px;
+    background-color: blue;
+    color: white;
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+button {
+    font-size: 18px;
+    padding: 5px 20px;
+    margin: 0 5px;
+}
+
+.neg {
+    background-color: red;
+    color: white;
+}
+
+.pos {
+    background-color: green;
+    color: white;
+}
